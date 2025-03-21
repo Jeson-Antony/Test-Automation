@@ -1,0 +1,44 @@
+2025-01-21 16:58:30,970 : INFO : test_formSubmission : Name isAj
+2025-01-21 16:58:31,757 : INFO : test_formSubmission : Name isSj
+2025-01-21 16:58:31,757 : INFO : test_formSubmission : Name isSj
+2025-01-21 16:58:39,177 : INFO : test_e2e : Getting all the card titles
+2025-01-21 16:58:39,214 : INFO : test_e2e : iphone X
+2025-01-21 16:58:39,228 : INFO : test_e2e : Samsung Note 8
+2025-01-21 16:58:39,241 : INFO : test_e2e : Nokia Edge
+2025-01-21 16:58:39,253 : INFO : test_e2e : Blackberry
+2025-01-21 16:58:39,494 : INFO : test_e2e : Entering country name
+2025-01-21 16:58:45,073 : INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-01-21 17:02:24,382 : INFO : test_formSubmission : Name isAj
+2025-01-21 17:02:25,181 : INFO : test_formSubmission : Name isSj
+2025-01-21 17:02:25,181 : INFO : test_formSubmission : Name isSj
+2025-01-21 17:02:31,905 : INFO : test_e2e : Getting all the card titles
+2025-01-21 17:02:31,948 : INFO : test_e2e : iphone X
+2025-01-21 17:02:31,968 : INFO : test_e2e : Samsung Note 8
+2025-01-21 17:02:31,985 : INFO : test_e2e : Nokia Edge
+2025-01-21 17:02:32,003 : INFO : test_e2e : Blackberry
+2025-01-21 17:02:32,268 : INFO : test_e2e : Entering country name
+2025-01-21 17:02:37,890 : INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-01-21 17:12:27,934 : INFO : test_formSubmission : Name isAj
+2025-01-21 17:12:28,522 : INFO : test_formSubmission : Name isSj
+2025-01-21 17:12:28,522 : INFO : test_formSubmission : Name isSj
+2025-01-21 17:12:34,884 : INFO : test_e2e : Getting all the card titles
+2025-01-21 17:12:34,922 : INFO : test_e2e : iphone X
+2025-01-21 17:12:34,935 : INFO : test_e2e : Samsung Note 8
+2025-01-21 17:12:34,959 : INFO : test_e2e : Nokia Edge
+2025-01-21 17:12:34,971 : INFO : test_e2e : Blackberry
+2025-01-21 17:12:35,171 : INFO : test_e2e : Entering country name
+2025-01-21 17:12:40,796 : INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-01-24 14:47:52,843 : INFO : test_formSubmission : Name isAj
+2025-01-24 14:47:54,396 : INFO : test_formSubmission : Name isSj
+2025-01-24 14:47:54,396 : INFO : test_formSubmission : Name isSj
+2025-01-24 14:48:05,922 : INFO : test_e2e : Getting all the card titles
+2025-01-24 14:48:06,094 : INFO : test_e2e : iphone X
+2025-01-24 14:48:06,152 : INFO : test_e2e : Samsung Note 8
+2025-01-24 14:48:06,208 : INFO : test_e2e : Nokia Edge
+2025-01-24 14:48:06,263 : INFO : test_e2e : Blackberry
+2025-01-24 14:48:07,108 : INFO : test_e2e : Entering country name
+2025-01-24 14:48:13,150 : INFO : test_e2e : Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
